@@ -1,0 +1,26 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+    format_version: 0.13
+    jupytext_version: 1.11.5
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+
+# Conclusiones
+
+La principal conclusión de este trabajo fue:
+
+```{admonition} sobre la herramienta de modelación
+Se puede asegurar que la herramienta computacional ***ANSYS*** representa con un error de aproximadamente el `10 %`,  el fenómeno de caída hidráulica, es un fenómeno que se presenta en la hidráulica, con condiciones difíciles de simular. Dado lo anterior, ***ANSYS*** provee una alta confiabilidad para modelar estructuras de este tipo.
+```
+
+```{admonition} sobre la herramienta de modelación
+En este ejercicio se puede concluir que la herramienta ***ANSYS*** es útil a la hora de evaluar o validar modelos de estructuras hidráulicas tipo canales. 
+```
+
